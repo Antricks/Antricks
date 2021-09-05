@@ -6,8 +6,9 @@
   <h3> Student, Developer & Artist 📖👾🖌</h2>
 </div>
 
----
+<br>
 
+<!--
 <div align="right">
   <h3>Languages & tools:</h3>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -35,13 +36,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="32" height="32"/>
   </a>
 </div>
+-->
 
-<br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Antricks&column=8&theme=gruvbox&margin-w=15"/>
+</a>
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=antricks&show_icons=true&theme=gruvbox&locale=en&layout=compact)
+---
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=antricks&show_icons=true&theme=gruvbox&locale=en">
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Antricks&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&locale=en" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antricks&layout=compact&theme=gruvbox&show_icons=true" />
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Antricks&theme=gruvbox&row=2&column=3&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
