@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://twitter.com/AntricksDev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/antricksdev?logo=twitter&style=for-the-badge" alt="Twitter: @AntricksDev"/>
-  </a>
-</p>
-
 <div align="center">
   <a href="https://antricks.dev/"><img src="https://antricks.dev/img/pinguin-640.png" width="100" height="100"></a>
   <h1> Hi, I'm <a href="https://antricks.dev/">Antricks</a> 👋</h1>
@@ -13,7 +7,7 @@
 <br><br>
 
 <div align="left">
-  <h3>Languages & tools</h3>
+  <h2>Languages & tools</h2>
   <div>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,7 +23,7 @@
     <img src="https://img.shields.io/badge/PyCharm%20PE-18d68c.svg?style=for-the-badge&logo=pycharm&logoColor=fcf84a">
     <img src="https://img.shields.io/badge/godot-ffffff.svg?style=for-the-badge&logo=godot-engine">
     <img src="https://img.shields.io/badge/sublime_text-575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+    <img src="https://img.shields.io/badge/Insomnia-black.svg?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   </div>
   
   <div>
@@ -42,10 +36,25 @@
 <br><br>
 
 <div align="right">
-  <h3>Achievements & Stats</h3>
+  <h2>Achievements & Stats</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Antricks&row=1&theme=gruvbox&margin-w=5"/>
   </a>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Antricks&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&locale=en" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antricks&layout=compact&theme=gruvbox&show_icons=true" />
+</div>
+
+<br><br>
+
+<div align="left">
+  <h2>Contact me</h2>
+  <a href="https://discord.com/users/430664507476672524">
+    <img src="https://img.shields.io/badge/Antricks%232044-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Antricks#2044">
+  </a>
+  <a href="mailto:antricks.dev@posteo.de" target="blank">
+    <img src="https://img.shields.io/badge/E--Mail-ea4335.svg?style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/AntricksDev" target="blank">
+    <img src="https://img.shields.io/twitter/follow/antricksdev?logo=twitter&style=for-the-badge" alt="Twitter: @AntricksDev"/>
+  </a>
 </div>
