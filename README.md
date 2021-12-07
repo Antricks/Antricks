@@ -9,7 +9,7 @@
 <div align="left">
   <h2>Languages & tools</h2>
   <div>
-    <a href="https://github.com/Antricks?tab=repositories&language=nim">
+    <a href="https://github.com/Antricks?tab=repositories&language=java">
       <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     </a>
     <a href="https://github.com/Antricks?tab=repositories&language=python">
