@@ -9,11 +9,21 @@
 <div align="left">
   <h2>Languages & tools</h2>
   <div>
-    <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black">
+    <a href="https://github.com/Antricks?tab=repositories&language=nim">
+      <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+    </a>
+    <a href="https://github.com/Antricks?tab=repositories&language=python">
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </a>
+    <a href="https://github.com/Antricks?tab=repositories&language=javascript">
+      <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    </a>
+    <a href="https://github.com/Antricks?tab=repositories&language=c%2B%2B">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    </a>
+    <a href="https://github.com/Antricks?tab=repositories&language=nim">
+      <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black">
+    </a>
   </div>
   
   <div>
